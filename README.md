@@ -1,5 +1,7 @@
 # Sign Language Digits Recognition CNN
 
+![Logo](https://github.com/tharangachaminda/cnn_sign_language_detection/blob/main/dataset-cover.png)
+
 Sing language is a visual-gestural language used by deaf and hard-to-hearing individuals to convey imformation, thoughts and emotions. Sign language recognition is the process of using typically computer vision and machine learning, to interpret and understand sign language gestures made by individuals.
 
 ### Business Impact
@@ -38,7 +40,4 @@ pip install tensorflow
 1. TensorFlow
 2. Keras
 3. Saving and reusing models
-
-
-![Logo](https://github.com/tharangachaminda/cnn_sign_language_detection/blob/main/dataset-cover.png)
 
